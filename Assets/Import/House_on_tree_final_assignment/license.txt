@@ -1,0 +1,11 @@
+Model Information:
+* title:	House on tree_final assignment
+* source:	https://sketchfab.com/3d-models/house-on-tree-final-assignment-49207d04c392413e91a250183ff70605
+* author:	Sasha Golubenko (https://sketchfab.com/Pigeoness)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "House on tree_final assignment" (https://sketchfab.com/3d-models/house-on-tree-final-assignment-49207d04c392413e91a250183ff70605) by Sasha Golubenko (https://sketchfab.com/Pigeoness) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
